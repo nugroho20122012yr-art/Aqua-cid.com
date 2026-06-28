@@ -1,0 +1,6 @@
+{
+  "name": "Danone-AQUA Indonesia",
+  "description": "Website profil resmi, produk unggulan, kalkulator kebutuhan hidrasi harian, dan kontak pemesanan AQUA Menyapa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
